@@ -19,6 +19,10 @@ The single person pose detector is implemented in our demo because it is faster 
 https://nanaessandoh.github.io/pose.html
 
 
+# Screenshots
+![Test Image Upload](result/result1.png)
+![Test Web Camera](result/result2.png)
+
 
 
 
