@@ -1,7 +1,9 @@
-# Pose Detection TensorflowJS Posenet
+# Pose Detection using Posenet built in top of tensoflow.js core API
 
 # Description
-Check out the implementation of a real-time pose-detector client-side (In the Browser) using Tensorflow.js.
+PoseNet can be used to estimate either a single pose or multiple poses, meaning there is a version of the algorithm that can detect only one person in an image/video and one version that can detect multiple persons in an image/video
+
+The single person pose detector is implemented in our demo because it is faster and simpler but requires only one subject present in the image
 
 # Files
 
@@ -13,8 +15,8 @@ Check out the implementation of a real-time pose-detector client-side (In the Br
 
 # Demos
 
-**Working Demo:** 
-https://rubencg195.github.io/pages/pose-detection/
+**Live Demo:** 
+https://nanaessandoh.github.io/pose.html
 
 
 
