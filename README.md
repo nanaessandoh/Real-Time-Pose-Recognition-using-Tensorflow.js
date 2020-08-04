@@ -1,4 +1,4 @@
-# Pose Detection using Posenet built on top of tensoflow.js core API
+# Pose Detection using Posenet built on top of tensorflow.js core API
 
 # Description
 PoseNet can be used to estimate either a single pose or multiple poses, meaning there is a version of the algorithm that can detect only one person in an image/video and one version that can detect multiple persons in an image/video
